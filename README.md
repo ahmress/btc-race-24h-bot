@@ -1,7 +1,12 @@
 # Ridge Runner — cbBTC trend-hold bot
 
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/ahmress/btc-race-24h-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/ahmress/btc-race-24h-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
 Entry for the make.fun competition **btc-race-24h-20261123-0511**
 ("Race a BTC trading bot live for 24 hours"), harness `bars-replay/v1`.
+Bounty page: https://make.fun/bounty/btc-race-24h-20261123-0511
 
 The bot trades cbBTC on 1-minute bars with 1,000 USDC of paper money.
 One symbol, long only, no leverage.
